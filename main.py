@@ -21,7 +21,7 @@ async def on_ready():
 @client.event
 async def on_message(message):
   if message.content.upper() == "F":
-    await message.channel.send("F no chat guys :sob:")
+    await message.channel.send("F :sob:")
 
   elif message.content.upper() == "PING":
     await message.channel.send("pong?", reference=message)
