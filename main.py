@@ -1,6 +1,7 @@
 import discord.ext
 from dotenv import load_dotenv, find_dotenv
-import discord, os
+import discord, os, eventos, comandos
+
 # Carrega o arquivo .env
 load_dotenv(find_dotenv())
 
