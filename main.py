@@ -1,7 +1,6 @@
 import discord.ext
 from dotenv import load_dotenv, find_dotenv
-import discord, os, eventos, comandos
-
+import discord, os
 # Carrega o arquivo .env
 load_dotenv(find_dotenv())
 
@@ -10,10 +9,16 @@ class MyClient(discord.Client):
         print(f'Logged on as {self.user}!')
 
     async def on_message(self, message):
-        print(f'Message from {message.author}: {message.content}')
+        if message.author == client.user:
+          return
+        
+        if message.content.lower() == "f":
+          await message.channel.send("F")
 
 intents = discord.Intents.default()
 intents.members = True
+intents.message_content = True
+intents.messages = True
 
 client = MyClient(intents=intents)
 
