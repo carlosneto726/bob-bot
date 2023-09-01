@@ -1,0 +1,3259 @@
+{
+    "sets": [
+        {
+            "id": 1898,
+            "name": "Cavernas do Tempo",
+            "slug": "caverns-of-time",
+            "type": "",
+            "collectibleCount": 147,
+            "collectibleRevealedCount": 147,
+            "nonCollectibleCount": 25,
+            "nonCollectibleRevealedCount": 25
+        },
+        {
+            "id": 1869,
+            "name": "Caminho de Arthas",
+            "slug": "path-of-arthas",
+            "type": "",
+            "collectibleCount": 26,
+            "collectibleRevealedCount": 26,
+            "nonCollectibleCount": 23,
+            "nonCollectibleRevealedCount": 4
+        },
+        {
+            "id": 1858,
+            "name": "TITÃS",
+            "slug": "titans",
+            "type": "expansion",
+            "collectibleCount": 145,
+            "collectibleRevealedCount": 145,
+            "nonCollectibleCount": 135,
+            "nonCollectibleRevealedCount": 133
+        },
+        {
+            "id": 1809,
+            "name": "Festival das Lendas",
+            "slug": "festival-of-legends",
+            "type": "expansion",
+            "collectibleCount": 183,
+            "collectibleRevealedCount": 183,
+            "nonCollectibleCount": 75,
+            "nonCollectibleRevealedCount": 71
+        },
+        {
+            "id": 1776,
+            "name": "Ascensão do Lich Rei",
+            "slug": "march-of-the-lich-king",
+            "type": "expansion",
+            "collectibleCount": 183,
+            "collectibleRevealedCount": 183,
+            "nonCollectibleCount": 137,
+            "nonCollectibleRevealedCount": 64
+        },
+        {
+            "id": 1691,
+            "name": "Assassinato no Castelo de Nathria",
+            "slug": "murder-at-castle-nathria",
+            "type": "expansion",
+            "collectibleCount": 170,
+            "collectibleRevealedCount": 170,
+            "nonCollectibleCount": 125,
+            "nonCollectibleRevealedCount": 53
+        },
+        {
+            "id": 1658,
+            "name": "Viagem à Cidade Submersa",
+            "slug": "voyage-to-the-sunken-city",
+            "type": "expansion",
+            "collectibleCount": 170,
+            "collectibleRevealedCount": 170,
+            "nonCollectibleCount": 522,
+            "nonCollectibleRevealedCount": 78
+        },
+        {
+            "id": 1637,
+            "name": "Essencial",
+            "slug": "core",
+            "type": "",
+            "collectibleCount": 284,
+            "collectibleRevealedCount": 284,
+            "nonCollectibleCount": 60,
+            "nonCollectibleRevealedCount": 12
+        },
+        {
+            "id": 1635,
+            "name": "Legado",
+            "slug": "legacy",
+            "aliasSetIds": [
+                3,
+                4
+            ],
+            "type": "",
+            "collectibleCount": 425,
+            "collectibleRevealedCount": 418,
+            "nonCollectibleCount": 164,
+            "nonCollectibleRevealedCount": 134
+        },
+        {
+            "id": 1626,
+            "name": "Divididos no Vale Alterac",
+            "slug": "fractured-in-alterac-valley",
+            "type": "expansion",
+            "collectibleCount": 170,
+            "collectibleRevealedCount": 170,
+            "nonCollectibleCount": 378,
+            "nonCollectibleRevealedCount": 70
+        },
+        {
+            "id": 1578,
+            "name": "Juntos em Ventobravo",
+            "slug": "united-in-stormwind",
+            "type": "expansion",
+            "collectibleCount": 170,
+            "collectibleRevealedCount": 170,
+            "nonCollectibleCount": 317,
+            "nonCollectibleRevealedCount": 66
+        },
+        {
+            "id": 1525,
+            "name": "Forjado nos Sertões",
+            "slug": "forged-in-the-barrens",
+            "type": "expansion",
+            "collectibleCount": 170,
+            "collectibleRevealedCount": 170,
+            "nonCollectibleCount": 667,
+            "nonCollectibleRevealedCount": 82
+        },
+        {
+            "id": 1646,
+            "name": "Cards Clássicos",
+            "slug": "classic-cards",
+            "type": "",
+            "collectibleCount": 382,
+            "collectibleRevealedCount": 382,
+            "nonCollectibleCount": 96,
+            "nonCollectibleRevealedCount": 81
+        },
+        {
+            "id": 1466,
+            "name": "Delírios em Negraluna",
+            "slug": "madness-at-the-darkmoon-faire",
+            "type": "expansion",
+            "collectibleCount": 170,
+            "collectibleRevealedCount": 170,
+            "nonCollectibleCount": 359,
+            "nonCollectibleRevealedCount": 111
+        },
+        {
+            "id": 1443,
+            "name": "Universidade de Scolomântia",
+            "slug": "scholomance-academy",
+            "type": "expansion",
+            "collectibleCount": 135,
+            "collectibleRevealedCount": 135,
+            "nonCollectibleCount": 199,
+            "nonCollectibleRevealedCount": 60
+        },
+        {
+            "id": 1463,
+            "name": "Caçador de Demônios Iniciado",
+            "slug": "demonhunter-initiate",
+            "type": "base",
+            "collectibleCount": 20,
+            "collectibleRevealedCount": 20,
+            "nonCollectibleCount": 6,
+            "nonCollectibleRevealedCount": 3
+        },
+        {
+            "id": 1414,
+            "name": "Cinzas de Terralém",
+            "slug": "ashes-of-outland",
+            "type": "expansion",
+            "collectibleCount": 135,
+            "collectibleRevealedCount": 135,
+            "nonCollectibleCount": 84,
+            "nonCollectibleRevealedCount": 55
+        },
+        {
+            "id": 1403,
+            "name": "O Despertar de Galakrond",
+            "slug": "galakronds-awakening",
+            "type": "adventure",
+            "collectibleCount": 35,
+            "collectibleRevealedCount": 35,
+            "nonCollectibleCount": 12,
+            "nonCollectibleRevealedCount": 5
+        },
+        {
+            "id": 1347,
+            "name": "Despontar dos Dragões",
+            "slug": "descent-of-dragons",
+            "type": "expansion",
+            "collectibleCount": 140,
+            "collectibleRevealedCount": 140,
+            "nonCollectibleCount": 61,
+            "nonCollectibleRevealedCount": 56
+        },
+        {
+            "id": 1158,
+            "name": "Salvadores de Uldum",
+            "slug": "saviors-of-uldum",
+            "type": "expansion",
+            "collectibleCount": 135,
+            "collectibleRevealedCount": 135,
+            "nonCollectibleCount": 60,
+            "nonCollectibleRevealedCount": 47
+        },
+        {
+            "id": 1130,
+            "name": "Ascensão das Sombras",
+            "slug": "rise-of-shadows",
+            "type": "expansion",
+            "collectibleCount": 136,
+            "collectibleRevealedCount": 136,
+            "nonCollectibleCount": 68,
+            "nonCollectibleRevealedCount": 53
+        },
+        {
+            "id": 1129,
+            "name": "Ringue do Rastakhan",
+            "slug": "rastakhans-rumble",
+            "type": "expansion",
+            "collectibleCount": 135,
+            "collectibleRevealedCount": 135,
+            "nonCollectibleCount": 31,
+            "nonCollectibleRevealedCount": 29
+        },
+        {
+            "id": 1127,
+            "name": "O Projeto Cabum",
+            "slug": "the-boomsday-project",
+            "type": "expansion",
+            "collectibleCount": 136,
+            "collectibleRevealedCount": 136,
+            "nonCollectibleCount": 33,
+            "nonCollectibleRevealedCount": 28
+        },
+        {
+            "id": 1125,
+            "name": "O Bosque das Bruxas",
+            "slug": "the-witchwood",
+            "type": "expansion",
+            "collectibleCount": 135,
+            "collectibleRevealedCount": 135,
+            "nonCollectibleCount": 41,
+            "nonCollectibleRevealedCount": 35
+        },
+        {
+            "id": 1004,
+            "name": "Kobolds & Catacumbas",
+            "slug": "kobolds-and-catacombs",
+            "type": "expansion",
+            "collectibleCount": 135,
+            "collectibleRevealedCount": 135,
+            "nonCollectibleCount": 106,
+            "nonCollectibleRevealedCount": 96
+        },
+        {
+            "id": 1001,
+            "name": "Cavaleiros do Trono de Gelo",
+            "slug": "knights-of-the-frozen-throne",
+            "type": "expansion",
+            "collectibleCount": 135,
+            "collectibleRevealedCount": 135,
+            "nonCollectibleCount": 128,
+            "nonCollectibleRevealedCount": 55
+        },
+        {
+            "id": 27,
+            "name": "Jornada a Un'Goro",
+            "slug": "journey-to-ungoro",
+            "type": "expansion",
+            "collectibleCount": 135,
+            "collectibleRevealedCount": 135,
+            "nonCollectibleCount": 58,
+            "nonCollectibleRevealedCount": 56
+        },
+        {
+            "id": 25,
+            "name": "As Gangues de Geringontzan",
+            "slug": "mean-streets-of-gadgetzan",
+            "type": "expansion",
+            "collectibleCount": 132,
+            "collectibleRevealedCount": 132,
+            "nonCollectibleCount": 93,
+            "nonCollectibleRevealedCount": 86
+        },
+        {
+            "id": 23,
+            "name": "Uma Noite em Karazhan",
+            "slug": "one-night-in-karazhan",
+            "type": "adventure",
+            "collectibleCount": 45,
+            "collectibleRevealedCount": 45,
+            "nonCollectibleCount": 55,
+            "nonCollectibleRevealedCount": 53
+        },
+        {
+            "id": 21,
+            "name": "Sussurros dos Deuses Antigos",
+            "slug": "whispers-of-the-old-gods",
+            "type": "expansion",
+            "collectibleCount": 134,
+            "collectibleRevealedCount": 134,
+            "nonCollectibleCount": 41,
+            "nonCollectibleRevealedCount": 31
+        },
+        {
+            "id": 20,
+            "name": "Liga dos Exploradores",
+            "slug": "league-of-explorers",
+            "type": "adventure",
+            "collectibleCount": 45,
+            "collectibleRevealedCount": 45,
+            "nonCollectibleCount": 188,
+            "nonCollectibleRevealedCount": 18
+        },
+        {
+            "id": 15,
+            "name": "O Grande Torneio",
+            "slug": "the-grand-tournament",
+            "type": "expansion",
+            "collectibleCount": 132,
+            "collectibleRevealedCount": 132,
+            "nonCollectibleCount": 27,
+            "nonCollectibleRevealedCount": 20
+        },
+        {
+            "id": 14,
+            "name": "Montanha Rocha Negra",
+            "slug": "blackrock-mountain",
+            "type": "adventure",
+            "collectibleCount": 31,
+            "collectibleRevealedCount": 31,
+            "nonCollectibleCount": 175,
+            "nonCollectibleRevealedCount": 10
+        },
+        {
+            "id": 13,
+            "name": "Goblins vs Gnomos",
+            "slug": "goblins-vs-gnomes",
+            "type": "expansion",
+            "collectibleCount": 123,
+            "collectibleRevealedCount": 123,
+            "nonCollectibleCount": 34,
+            "nonCollectibleRevealedCount": 27
+        },
+        {
+            "id": 12,
+            "name": "Maldição de Naxxramas",
+            "slug": "naxxramas",
+            "type": "adventure",
+            "collectibleCount": 30,
+            "collectibleRevealedCount": 30,
+            "nonCollectibleCount": 118,
+            "nonCollectibleRevealedCount": 114
+        }
+    ],
+    "setGroups": [
+        {
+            "slug": "Wolf",
+            "year": 2023,
+            "svg": "https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/blt436c5e93bf8faf2c/64079268ad9e38554653fb6b/YotW_SetIcon_Colored.svg",
+            "cardSets": [],
+            "name": "Ano do Lobo",
+            "standard": true,
+            "icon": "icon_cardset_yearoftheWolf"
+        },
+        {
+            "slug": "hydra",
+            "year": 2022,
+            "svg": "https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/blt63ce92e33c79ee7f/622902fe04503350d255bca6/YotH_SVG-01-01.svg",
+            "cardSets": [
+                "voyage-to-the-sunken-city"
+            ],
+            "name": "Ano da Hidra",
+            "standard": true,
+            "icon": "icon_cardset_yearofthehydra"
+        },
+        {
+            "slug": "gryphon",
+            "year": 2021,
+            "svg": "https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/bltd467577e4baabcf1/600740743e8106106f1bc575/year_icon_gryphon.svg",
+            "cardSets": [
+                "fractured-in-alterac-valley",
+                "united-in-stormwind",
+                "forged-in-the-barrens"
+            ],
+            "name": "Ano do Grifo",
+            "standard": false,
+            "icon": "icon_cardset_yearofthegryphon"
+        },
+        {
+            "slug": "phoenix",
+            "year": 2020,
+            "svg": "https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/blt213931027a138c86/602700575e4a6c4d10dea67e/icon_year_phoenix.svg",
+            "cardSets": [
+                "madness-at-the-darkmoon-faire",
+                "scholomance-academy",
+                "ashes-of-outland"
+            ],
+            "name": "Ano da Fênix",
+            "standard": false,
+            "icon": "icon_cardset_yearofthephoenix"
+        },
+        {
+            "slug": "dragon",
+            "year": 2019,
+            "svg": null,
+            "cardSets": [
+                "galakronds-awakening",
+                "descent-of-dragons",
+                "saviors-of-uldum",
+                "rise-of-shadows"
+            ],
+            "name": "Ano do Dragão",
+            "standard": false,
+            "icon": "icon_cardset_yearofthedragon"
+        },
+        {
+            "slug": "raven",
+            "year": 2018,
+            "svg": null,
+            "cardSets": [
+                "rastakhans-rumble",
+                "the-boomsday-project",
+                "the-witchwood"
+            ],
+            "name": "Ano do Corvo",
+            "standard": false,
+            "icon": "icon_cardset_yearoftheraven"
+        },
+        {
+            "slug": "mammoth",
+            "year": 2017,
+            "svg": null,
+            "cardSets": [
+                "kobolds-and-catacombs",
+                "knights-of-the-frozen-throne",
+                "journey-to-ungoro"
+            ],
+            "name": "Ano do Mamute",
+            "standard": false,
+            "icon": "icon_cardset_yearofthemammoth"
+        },
+        {
+            "slug": "kraken",
+            "year": 2016,
+            "svg": null,
+            "cardSets": [
+                "mean-streets-of-gadgetzan",
+                "one-night-in-karazhan",
+                "whispers-of-the-old-gods"
+            ],
+            "name": "Ano do Kraken",
+            "standard": false,
+            "icon": "icon_cardset_yearofthekraken"
+        },
+        {
+            "slug": "classic",
+            "year": 2015,
+            "svg": null,
+            "cardSets": [
+                "league-of-explorers",
+                "the-grand-tournament",
+                "blackrock-mountain",
+                "goblins-vs-gnomes",
+                "naxxramas"
+            ],
+            "name": "Anos 1 e 2",
+            "standard": false,
+            "yearRange": "2014-2015",
+            "icon": "icon_cardset_classic"
+        },
+        {
+            "slug": "standard",
+            "cardSets": [
+                "path-of-arthas",
+                "titans",
+                "festival-of-legends",
+                "march-of-the-lich-king",
+                "murder-at-castle-nathria",
+                "voyage-to-the-sunken-city",
+                "core"
+            ],
+            "name": "Cards Padrão"
+        },
+        {
+            "slug": "wild",
+            "cardSets": [
+                "caverns-of-time",
+                "path-of-arthas",
+                "titans",
+                "festival-of-legends",
+                "march-of-the-lich-king",
+                "murder-at-castle-nathria",
+                "voyage-to-the-sunken-city",
+                "core",
+                "legacy",
+                "fractured-in-alterac-valley",
+                "united-in-stormwind",
+                "forged-in-the-barrens",
+                "madness-at-the-darkmoon-faire",
+                "scholomance-academy",
+                "demonhunter-initiate",
+                "ashes-of-outland",
+                "galakronds-awakening",
+                "descent-of-dragons",
+                "saviors-of-uldum",
+                "rise-of-shadows",
+                "rastakhans-rumble",
+                "the-boomsday-project",
+                "the-witchwood",
+                "kobolds-and-catacombs",
+                "knights-of-the-frozen-throne",
+                "journey-to-ungoro",
+                "mean-streets-of-gadgetzan",
+                "one-night-in-karazhan",
+                "whispers-of-the-old-gods",
+                "league-of-explorers",
+                "the-grand-tournament",
+                "blackrock-mountain",
+                "goblins-vs-gnomes",
+                "naxxramas"
+            ],
+            "name": "Cards do Livre"
+        }
+    ],
+    "gameModes": [
+        {
+            "slug": "constructed",
+            "id": 1,
+            "name": "Padrão e Livre"
+        },
+        {
+            "slug": "battlegrounds",
+            "id": 2,
+            "name": "Campos de Batalha"
+        },
+        {
+            "slug": "arena",
+            "id": 3,
+            "name": "Cards de arena atuais"
+        },
+        {
+            "slug": "duels",
+            "id": 4,
+            "name": "Cards de Duelos atuais"
+        },
+        {
+            "slug": "standard",
+            "id": 5,
+            "name": "Standard"
+        },
+        {
+            "slug": "classic",
+            "id": 6,
+            "name": "Clássico"
+        },
+        {
+            "slug": "mercenaries",
+            "id": 7,
+            "name": "Mercenaries"
+        }
+    ],
+    "arenaIds": [
+        98053,
+        96917,
+        102969,
+        102790,
+        102745,
+        102743,
+        102719,
+        102718,
+        102275,
+        102272,
+        102246,
+        102230,
+        102229,
+        102228,
+        102227,
+        102226,
+        102225,
+        102224,
+        102223,
+        102222,
+        102221,
+        102219,
+        102218,
+        102217,
+        102216,
+        102215,
+        102214,
+        102213,
+        102212,
+        102211,
+        102210,
+        102209,
+        102208,
+        102207,
+        102206,
+        102205,
+        102204,
+        102203,
+        102202,
+        102200,
+        102199,
+        102198,
+        102197,
+        102196,
+        102195,
+        102194,
+        102193,
+        102192,
+        102191,
+        102190,
+        102189,
+        102188,
+        102187,
+        102186,
+        102185,
+        102184,
+        102040,
+        101869,
+        100984,
+        100929,
+        100093,
+        98680,
+        98626,
+        98565,
+        98560,
+        98520,
+        98469,
+        98468,
+        98434,
+        98427,
+        78644,
+        98417,
+        98413,
+        98411,
+        98410,
+        98403,
+        98394,
+        98390,
+        98389,
+        98382,
+        98377,
+        98344,
+        98330,
+        98328,
+        98285,
+        98283,
+        98282,
+        98280,
+        98278,
+        98265,
+        98253,
+        98252,
+        98248,
+        98224,
+        98223,
+        98212,
+        98182,
+        78169,
+        98143,
+        98136,
+        98123,
+        98111,
+        98105,
+        98104,
+        98097,
+        98087,
+        98061,
+        98059,
+        98058,
+        98056,
+        98055,
+        98054,
+        98051,
+        98030,
+        98029,
+        98023,
+        98019,
+        98017,
+        97915,
+        80647,
+        80648,
+        80649,
+        80736,
+        80818,
+        80819,
+        81972,
+        82072,
+        82088,
+        82116,
+        82269,
+        86190,
+        86731,
+        86732,
+        86735,
+        80645,
+        80021,
+        78324,
+        78325,
+        78332,
+        78335,
+        78342,
+        78352,
+        78353,
+        78357,
+        78601,
+        78633,
+        78641,
+        79480,
+        79569,
+        80641,
+        97853,
+        97825,
+        80822,
+        81961,
+        78356,
+        78334,
+        97739,
+        97738,
+        97736,
+        97729,
+        97726,
+        97702,
+        97700,
+        97697,
+        97687,
+        97683,
+        97682,
+        97680,
+        97678,
+        97671,
+        79503,
+        97374,
+        97375,
+        97377,
+        97379,
+        97376,
+        82067,
+        97649,
+        97642,
+        97640,
+        97638,
+        97629,
+        97627,
+        97626,
+        97623,
+        97619,
+        97617,
+        97614,
+        97608,
+        97593,
+        97584,
+        97579,
+        97575,
+        97574,
+        97573,
+        97572,
+        97571,
+        97570,
+        97569,
+        97532,
+        97530,
+        97528,
+        97527,
+        97526,
+        97495,
+        97479,
+        97478,
+        97477,
+        97475,
+        97474,
+        97473,
+        97467,
+        97462,
+        97455,
+        97406,
+        97404,
+        97403,
+        97397,
+        97394,
+        97380,
+        97363,
+        97362,
+        97361,
+        97360,
+        97358,
+        97355,
+        97354,
+        97352,
+        97346,
+        97344,
+        97343,
+        97333,
+        97332,
+        97329,
+        97326,
+        97318,
+        97282,
+        97269,
+        97261,
+        97215,
+        97207,
+        96916,
+        97132,
+        97112,
+        97109,
+        97103,
+        97099,
+        97096,
+        97078,
+        97061,
+        97053,
+        97052,
+        97051,
+        97049,
+        97047,
+        97005,
+        97003,
+        96999,
+        96997,
+        96996,
+        96992,
+        96946,
+        96941,
+        96933,
+        96910,
+        96909,
+        96903,
+        96875,
+        96710,
+        96671,
+        96628,
+        96627,
+        96621,
+        96618,
+        96422,
+        96077,
+        95967,
+        95935,
+        95917,
+        95856,
+        95825,
+        95755,
+        95746,
+        95688,
+        95630,
+        95470,
+        95464,
+        95454,
+        95408,
+        95405,
+        95404,
+        95395,
+        95394,
+        95377,
+        95374,
+        95350,
+        95345,
+        95344,
+        95336,
+        80090,
+        80085,
+        78348,
+        78320,
+        78349,
+        78354,
+        80708,
+        78355,
+        78649,
+        81973,
+        78338,
+        78317,
+        80014,
+        80664,
+        81206,
+        81849,
+        80663,
+        82073,
+        80820,
+        94889,
+        94852,
+        94822,
+        94821,
+        94820,
+        94819,
+        94802,
+        94798,
+        94736,
+        94735,
+        94727,
+        94381,
+        94251,
+        94250,
+        94249,
+        94248,
+        94225,
+        94218,
+        94210,
+        94205,
+        94204,
+        94201,
+        93881,
+        93434,
+        92340,
+        92338,
+        92335,
+        92332,
+        92328,
+        92325,
+        92296,
+        92276,
+        92268,
+        92267,
+        92266,
+        92258,
+        92256,
+        92254,
+        92252,
+        92250,
+        92249,
+        92246,
+        92243,
+        92242,
+        92240,
+        92237,
+        92235,
+        92232,
+        92228,
+        92227,
+        92225,
+        92222,
+        91989,
+        91986,
+        91888,
+        91885,
+        91874,
+        91872,
+        91659,
+        91511,
+        91498,
+        91496,
+        91495,
+        91494,
+        91493,
+        91412,
+        91252,
+        91251,
+        91232,
+        86545,
+        86547,
+        91215,
+        91175,
+        91080,
+        91079,
+        91078,
+        91076,
+        91067,
+        91066,
+        91001,
+        90996,
+        90994,
+        90993,
+        90972,
+        90968,
+        90966,
+        90959,
+        90956,
+        90952,
+        85035,
+        90945,
+        90944,
+        90941,
+        90856,
+        90854,
+        90850,
+        90808,
+        90781,
+        90749,
+        90738,
+        90700,
+        90699,
+        90698,
+        90695,
+        90694,
+        90689,
+        90688,
+        90687,
+        90683,
+        90681,
+        90678,
+        90671,
+        90648,
+        90644,
+        90615,
+        90612,
+        90608,
+        90606,
+        90603,
+        90600,
+        90592,
+        90591,
+        90586,
+        90583,
+        90572,
+        90561,
+        90543,
+        90541,
+        90534,
+        90532,
+        90497,
+        90484,
+        90481,
+        90463,
+        90461,
+        90441,
+        90440,
+        90439,
+        90368,
+        90366,
+        90359,
+        90356,
+        90325,
+        89699,
+        88982,
+        88580,
+        88403,
+        76270,
+        76272,
+        76273,
+        76281,
+        76282,
+        76283,
+        76285,
+        76288,
+        76289,
+        76291,
+        76293,
+        76294,
+        76297,
+        76300,
+        76302,
+        76304,
+        76306,
+        76308,
+        76310,
+        76316,
+        76317,
+        76318,
+        76319,
+        76320,
+        76321,
+        76322,
+        76323,
+        76324,
+        76325,
+        76327,
+        76329,
+        77554,
+        86235,
+        86534,
+        86535,
+        86539,
+        86540,
+        86543,
+        86544,
+        86548,
+        86551,
+        86552,
+        87682,
+        87681,
+        87648,
+        87642,
+        87639,
+        87329,
+        87326,
+        87325,
+        87317,
+        87301,
+        87285,
+        86733,
+        86725,
+        86722,
+        86693,
+        86692,
+        86691,
+        86672,
+        86671,
+        86669,
+        86661,
+        86660,
+        86655,
+        86626,
+        86624,
+        86621,
+        86619,
+        86597,
+        86595,
+        86574,
+        86573,
+        86572,
+        86570,
+        86567,
+        86559,
+        86557,
+        86510,
+        86508,
+        86507,
+        86505,
+        86504,
+        86502,
+        86487,
+        86483,
+        86481,
+        86440,
+        86439,
+        86438,
+        86417,
+        86383,
+        86367,
+        86317,
+        86274,
+        86228,
+        86209,
+        86186,
+        86150,
+        86147,
+        86136,
+        86132,
+        86120,
+        86119,
+        86112,
+        86111,
+        86109,
+        86092,
+        85651,
+        85649,
+        85640,
+        85621,
+        85604,
+        85597,
+        85154,
+        85152,
+        85054,
+        85053,
+        85052,
+        85051,
+        85050,
+        85049,
+        85048,
+        85047,
+        85046,
+        85041,
+        85034,
+        84923,
+        84857,
+        84856,
+        84765,
+        84752,
+        84749,
+        84740,
+        84739,
+        84737,
+        84736,
+        84692,
+        84623,
+        84586,
+        84428,
+        84426,
+        84421,
+        84400,
+        84399,
+        84398,
+        84395,
+        84393,
+        84392,
+        84391,
+        84390,
+        84388,
+        84387,
+        84385,
+        84383,
+        84370,
+        84361,
+        84358,
+        84357,
+        84302,
+        84301,
+        84300,
+        84299,
+        84296,
+        84293,
+        84292,
+        84291,
+        84290,
+        84289,
+        84288,
+        84274,
+        84273,
+        84272,
+        84267,
+        84266,
+        84261,
+        84260,
+        84250,
+        84248,
+        84245,
+        84244,
+        84243,
+        84242,
+        84240,
+        84239,
+        84238,
+        84237,
+        84235,
+        84234,
+        84233,
+        84232,
+        84230,
+        84229,
+        84219,
+        84212,
+        84209,
+        84207,
+        84206,
+        84204,
+        84133,
+        84132,
+        84007,
+        84003,
+        83942,
+        83089,
+        82689,
+        81963,
+        80830,
+        80644,
+        80537,
+        80091,
+        80089,
+        80088,
+        80087,
+        80084,
+        80083,
+        80019,
+        79790,
+        78607,
+        78345,
+        78333,
+        78329,
+        78314,
+        72250,
+        72248,
+        66872,
+        66870,
+        66869,
+        66868,
+        66866,
+        66864,
+        66861,
+        66858,
+        66856,
+        66854,
+        66176,
+        64465,
+        62698,
+        62498,
+        62497,
+        62442,
+        62347,
+        69742,
+        69740,
+        69737,
+        69735,
+        69734,
+        69731,
+        69728,
+        69726,
+        69721,
+        69718,
+        69717,
+        69713,
+        69707,
+        69706,
+        69705,
+        69703,
+        69702,
+        69700,
+        69699,
+        69698,
+        69691,
+        69689,
+        69688,
+        69684,
+        69683,
+        69679,
+        69677,
+        69675,
+        69674,
+        69668,
+        69667,
+        69666,
+        69665,
+        69664,
+        69663,
+        69662,
+        69661,
+        69660,
+        69658,
+        69655,
+        69654,
+        69652,
+        69649,
+        69645,
+        69644,
+        69643,
+        69641,
+        69640,
+        69638,
+        69637,
+        69636,
+        69635,
+        69634,
+        69632,
+        69630,
+        69629,
+        69626,
+        69625,
+        69623,
+        69622,
+        69621,
+        69616,
+        69614,
+        69613,
+        69611,
+        69608,
+        69607,
+        69605,
+        69604,
+        69603,
+        69601,
+        69600,
+        69598,
+        69595,
+        69594,
+        69593,
+        69591,
+        69590,
+        69588,
+        69586,
+        69569,
+        69566,
+        69565,
+        69558,
+        69557,
+        69556,
+        69553,
+        69551,
+        69550,
+        69547,
+        69546,
+        69545,
+        69544,
+        69543,
+        69542,
+        69539,
+        69537,
+        69535,
+        69533,
+        69532,
+        69530,
+        69525,
+        69522,
+        69521,
+        69519,
+        69516,
+        69513,
+        69511,
+        69509,
+        69508,
+        69507,
+        69504,
+        69501,
+        69500,
+        58455,
+        56900,
+        62049,
+        61973,
+        61972,
+        61971,
+        61970,
+        61969,
+        61968,
+        61967,
+        61966,
+        61965,
+        61964,
+        61963,
+        61962,
+        61961,
+        61960,
+        61959,
+        61958,
+        61957,
+        61956,
+        61955,
+        61954,
+        61953,
+        61952,
+        61951,
+        61950,
+        61949,
+        61948,
+        61947,
+        61946,
+        61945,
+        61944,
+        61943,
+        61942,
+        61941,
+        61940,
+        61939,
+        61898,
+        61885,
+        61884,
+        61846,
+        61842,
+        61839,
+        61702,
+        61700,
+        61699,
+        61690,
+        61685,
+        61683,
+        61682,
+        61679,
+        61677,
+        61676,
+        61674,
+        61672,
+        61670,
+        61663,
+        61649,
+        61648,
+        61646,
+        61643,
+        61642,
+        61640,
+        61639,
+        61635,
+        61629,
+        61626,
+        61625,
+        61622,
+        61620,
+        61616,
+        61606,
+        61605,
+        61604,
+        61602,
+        61589,
+        61587,
+        61585,
+        61584,
+        61581,
+        61580,
+        61503,
+        61462,
+        61461,
+        61460,
+        61450,
+        61449,
+        61437,
+        61436,
+        61435,
+        61434,
+        61428,
+        61426,
+        61308,
+        61306,
+        61305,
+        61299,
+        61298,
+        61297,
+        61291,
+        61283,
+        61282,
+        61273,
+        61271,
+        61269,
+        61268,
+        61263,
+        61262,
+        61254,
+        61252,
+        61249,
+        61248,
+        61246,
+        61242,
+        61238,
+        61237,
+        61235,
+        61230,
+        61229,
+        61228,
+        61227,
+        61226,
+        61225,
+        61224,
+        61223,
+        61222,
+        61218,
+        61208,
+        61207,
+        61206,
+        61205,
+        61203,
+        61202,
+        61192,
+        61191,
+        61189,
+        61188,
+        61187,
+        61186,
+        61180,
+        61179,
+        61178,
+        61177,
+        61176,
+        61171,
+        61169,
+        61168,
+        61162,
+        61159,
+        61157,
+        61156,
+        61154,
+        61151,
+        61137,
+        61136,
+        61135,
+        61133,
+        61132,
+        61131,
+        61130,
+        61129,
+        61128,
+        61127,
+        61125,
+        61123,
+        60979,
+        60926,
+        60916,
+        60892,
+        60445,
+        60443,
+        58170,
+        60280,
+        59869,
+        59864,
+        58549,
+        58495,
+        58453,
+        58243,
+        58202,
+        58201,
+        57979,
+        57950,
+        57907,
+        57721,
+        57718,
+        57688,
+        57619,
+        57546,
+        57476,
+        57326,
+        57217,
+        57197,
+        57195,
+        57194,
+        57193,
+        57192,
+        57191,
+        57190,
+        57189,
+        57188,
+        57187,
+        57186,
+        57184,
+        57183,
+        57182,
+        57181,
+        57180,
+        57177,
+        57176,
+        57175,
+        57174,
+        57166,
+        57165,
+        57160,
+        57149,
+        57145,
+        56985,
+        56899,
+        56860,
+        56827,
+        56824,
+        56823,
+        56820,
+        56819,
+        56758,
+        56734,
+        56732,
+        56717,
+        56703,
+        56697,
+        56694,
+        56689,
+        56687,
+        56686,
+        56685,
+        56684,
+        56681,
+        56682,
+        56680,
+        56678,
+        56677,
+        56676,
+        56660,
+        56649,
+        56632,
+        56624,
+        56623,
+        56622,
+        56603,
+        56598,
+        56595,
+        56556,
+        56555,
+        56554,
+        56534,
+        56530,
+        56528,
+        56527,
+        56526,
+        56524,
+        56523,
+        56520,
+        56519,
+        56516,
+        56512,
+        56511,
+        56510,
+        56508,
+        56507,
+        56504,
+        56502,
+        56501,
+        56484,
+        56483,
+        56482,
+        56472,
+        56471,
+        56470,
+        56467,
+        56461,
+        56460,
+        56451,
+        56445,
+        56444,
+        56443,
+        56439,
+        56420,
+        56417,
+        56413,
+        56412,
+        56411,
+        56398,
+        56394,
+        56393,
+        56392,
+        56391,
+        56389,
+        56387,
+        56386,
+        56385,
+        56379,
+        56378,
+        56377,
+        54806,
+        54783,
+        54772,
+        54749,
+        54730,
+        54495,
+        54493,
+        54492,
+        54489,
+        54488,
+        54433,
+        54431,
+        54429,
+        54427,
+        54426,
+        54425,
+        54424,
+        54411,
+        54408,
+        54391,
+        54390,
+        54389,
+        54386,
+        54369,
+        54317,
+        54314,
+        54311,
+        54296,
+        54291,
+        54288,
+        54284,
+        54280,
+        54278,
+        54276,
+        54274,
+        54273,
+        54272,
+        54269,
+        54267,
+        54265,
+        54264,
+        54261,
+        54260,
+        54259,
+        54257,
+        54256,
+        54204,
+        54191,
+        54160,
+        54154,
+        54153,
+        54148,
+        54147,
+        54077,
+        54038,
+        54037,
+        54020,
+        54016,
+        54015,
+        54013,
+        54011,
+        54009,
+        54002,
+        54000,
+        53990,
+        53985,
+        53979,
+        53978,
+        53974,
+        53973,
+        53972,
+        53971,
+        53970,
+        53969,
+        53967,
+        53947,
+        53945,
+        53942,
+        53938,
+        53935,
+        53933,
+        53932,
+        53929,
+        53926,
+        53924,
+        53922,
+        53919,
+        53917,
+        53907,
+        53890,
+        53889,
+        53887,
+        53885,
+        53884,
+        53883,
+        53882,
+        53861,
+        53860,
+        53832,
+        53827,
+        53823,
+        53822,
+        53800,
+        53796,
+        53791,
+        53788,
+        53778,
+        53771,
+        53756,
+        53739,
+        53661,
+        53627,
+        53620,
+        53615,
+        53613,
+        53609,
+        53596,
+        53582,
+        53576,
+        53551,
+        53545,
+        53496,
+        53445,
+        53442,
+        53439,
+        53438,
+        53435,
+        53413,
+        53409,
+        53408,
+        53407,
+        53402,
+        53379,
+        53343,
+        53336
+    ],
+    "types": [
+        {
+            "slug": "hero",
+            "id": 3,
+            "name": "Herói",
+            "gameModes": [
+                1,
+                4,
+                5
+            ]
+        },
+        {
+            "slug": "minion",
+            "id": 4,
+            "name": "Lacaio",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "slug": "spell",
+            "id": 5,
+            "name": "Feitiço",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "slug": "weapon",
+            "id": 7,
+            "name": "Arma",
+            "gameModes": [
+                1,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "slug": "hero power",
+            "id": 10,
+            "name": "Poder Heroico",
+            "gameModes": [
+                4
+            ]
+        },
+        {
+            "slug": "location",
+            "id": 39,
+            "name": "Lugar",
+            "gameModes": [
+                1,
+                4,
+                5
+            ]
+        },
+        {
+            "slug": "baconquestreward",
+            "id": 40,
+            "name": "Recompensa",
+            "gameModes": [
+                2
+            ]
+        }
+    ],
+    "rarities": [
+        {
+            "slug": "common",
+            "id": 1,
+            "craftingCost": [
+                40,
+                400
+            ],
+            "dustValue": [
+                5,
+                50
+            ],
+            "name": "Comum"
+        },
+        {
+            "slug": "free",
+            "id": 2,
+            "craftingCost": [
+                null,
+                null
+            ],
+            "dustValue": [
+                null,
+                null
+            ],
+            "name": "Grátis"
+        },
+        {
+            "slug": "rare",
+            "id": 3,
+            "craftingCost": [
+                100,
+                800
+            ],
+            "dustValue": [
+                20,
+                100
+            ],
+            "name": "Raro"
+        },
+        {
+            "slug": "epic",
+            "id": 4,
+            "craftingCost": [
+                400,
+                1600
+            ],
+            "dustValue": [
+                100,
+                400
+            ],
+            "name": "Épico"
+        },
+        {
+            "slug": "legendary",
+            "id": 5,
+            "craftingCost": [
+                1600,
+                3200
+            ],
+            "dustValue": [
+                400,
+                1600
+            ],
+            "name": "Lendário"
+        }
+    ],
+    "classes": [
+        {
+            "slug": "deathknight",
+            "id": 1,
+            "name": "Cavaleiro da Morte",
+            "cardId": 78065,
+            "heroPowerCardId": 78162,
+            "alternateHeroCardIds": [
+                78066
+            ]
+        },
+        {
+            "slug": "demonhunter",
+            "id": 14,
+            "name": "Caçador de Demônios",
+            "cardId": 56550,
+            "heroPowerCardId": 60224,
+            "alternateHeroCardIds": [
+                60238,
+                62491,
+                64697,
+                71077,
+                71078,
+                71079
+            ]
+        },
+        {
+            "slug": "druid",
+            "id": 2,
+            "name": "Druida",
+            "cardId": 274,
+            "heroPowerCardId": 1123,
+            "alternateHeroCardIds": [
+                50484,
+                56358,
+                57761,
+                60375,
+                64698
+            ]
+        },
+        {
+            "slug": "hunter",
+            "id": 3,
+            "name": "Caçador",
+            "cardId": 31,
+            "heroPowerCardId": 229,
+            "alternateHeroCardIds": [
+                2826,
+                60335,
+                61597,
+                64699,
+                71080
+            ]
+        },
+        {
+            "slug": "mage",
+            "id": 4,
+            "name": "Mago",
+            "cardId": 637,
+            "heroPowerCardId": 807,
+            "alternateHeroCardIds": [
+                2829,
+                39117,
+                57765,
+                61598,
+                62772,
+                64844,
+                64845,
+                64846,
+                64847
+            ]
+        },
+        {
+            "slug": "paladin",
+            "id": 5,
+            "name": "Paladino",
+            "cardId": 671,
+            "heroPowerCardId": 472,
+            "alternateHeroCardIds": [
+                2827,
+                46116,
+                53187,
+                57757,
+                61596,
+                61886,
+                64732,
+                67519
+            ]
+        },
+        {
+            "slug": "priest",
+            "id": 6,
+            "name": "Sacerdote",
+            "cardId": 813,
+            "heroPowerCardId": 479,
+            "alternateHeroCardIds": [
+                41887,
+                54816,
+                57767,
+                64733,
+                67523,
+                67710,
+                71074,
+                71075,
+                71076
+            ]
+        },
+        {
+            "slug": "rogue",
+            "id": 7,
+            "name": "Ladino",
+            "cardId": 930,
+            "heroPowerCardId": 730,
+            "alternateHeroCardIds": [
+                40195,
+                57755,
+                64734,
+                67522,
+                67846
+            ]
+        },
+        {
+            "slug": "shaman",
+            "id": 8,
+            "name": "Xamã",
+            "cardId": 1066,
+            "heroPowerCardId": 687,
+            "alternateHeroCardIds": [
+                40183,
+                53237,
+                55963,
+                57753,
+                60673,
+                64736,
+                64848,
+                64849,
+                64850,
+                71058
+            ]
+        },
+        {
+            "slug": "warlock",
+            "id": 9,
+            "name": "Bruxo",
+            "cardId": 893,
+            "heroPowerCardId": 300,
+            "alternateHeroCardIds": [
+                47817,
+                51834,
+                57763,
+                64685,
+                64738
+            ]
+        },
+        {
+            "slug": "warrior",
+            "id": 10,
+            "name": "Guerreiro",
+            "cardId": 7,
+            "heroPowerCardId": 725,
+            "alternateHeroCardIds": [
+                2828,
+                57751,
+                58787,
+                61595,
+                61923,
+                64739,
+                67521,
+                71071,
+                71072,
+                71073
+            ]
+        },
+        {
+            "slug": "neutral",
+            "id": 12,
+            "name": "Neutro"
+        }
+    ],
+    "minionTypes": [
+        {
+            "slug": "bloodelf",
+            "id": 1,
+            "name": "Elfo Sangrento",
+            "gameModes": [
+                7
+            ]
+        },
+        {
+            "slug": "draenei",
+            "id": 2,
+            "name": "Draenei",
+            "gameModes": [
+                7
+            ]
+        },
+        {
+            "slug": "dwarf",
+            "id": 3,
+            "name": "Anão",
+            "gameModes": [
+                7
+            ]
+        },
+        {
+            "slug": "gnome",
+            "id": 4,
+            "name": "Gnomo",
+            "gameModes": [
+                7
+            ]
+        },
+        {
+            "slug": "human",
+            "id": 6,
+            "name": "Humano",
+            "gameModes": [
+                7
+            ]
+        },
+        {
+            "slug": "nightelf",
+            "id": 7,
+            "name": "Elfo Noturno",
+            "gameModes": [
+                7
+            ]
+        },
+        {
+            "slug": "orc",
+            "id": 8,
+            "name": "Orc",
+            "gameModes": [
+                7
+            ]
+        },
+        {
+            "slug": "tauren",
+            "id": 9,
+            "name": "Tauren",
+            "gameModes": [
+                7
+            ]
+        },
+        {
+            "slug": "troll",
+            "id": 10,
+            "name": "Troll",
+            "gameModes": [
+                7
+            ]
+        },
+        {
+            "slug": "undead",
+            "id": 11,
+            "name": "Morto-vivo",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "slug": "murloc",
+            "id": 14,
+            "name": "Murloc",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "slug": "demon",
+            "id": 15,
+            "name": "Demônio",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "slug": "mech",
+            "id": 17,
+            "name": "Mecanoide",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "slug": "elemental",
+            "id": 18,
+            "name": "Elemental",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5,
+                7
+            ]
+        },
+        {
+            "slug": "beast",
+            "id": 20,
+            "name": "Fera",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "slug": "totem",
+            "id": 21,
+            "name": "Totem",
+            "gameModes": [
+                1,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "slug": "pirate",
+            "id": 23,
+            "name": "Pirata",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "slug": "dragon",
+            "id": 24,
+            "name": "Dragão",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "slug": "all",
+            "id": 26,
+            "name": "Tudo",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5
+            ]
+        },
+        {
+            "slug": "quilboar",
+            "id": 43,
+            "name": "Javatusco",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5
+            ]
+        },
+        {
+            "slug": "halforc",
+            "id": 88,
+            "name": "Meio Orc"
+        },
+        {
+            "slug": "naga",
+            "id": 92,
+            "name": "Naga",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5,
+                7
+            ]
+        },
+        {
+            "slug": "oldgod",
+            "id": 93,
+            "name": "Deus Antigo",
+            "gameModes": [
+                7
+            ]
+        },
+        {
+            "slug": "pandaren",
+            "id": 94,
+            "name": "Pandaren",
+            "gameModes": [
+                7
+            ]
+        },
+        {
+            "slug": "gronn",
+            "id": 95,
+            "name": "Gronn",
+            "gameModes": [
+                7
+            ]
+        }
+    ],
+    "spellSchools": [
+        {
+            "slug": "arcane",
+            "id": 1,
+            "name": "Arcano"
+        },
+        {
+            "slug": "fire",
+            "id": 2,
+            "name": "Fogo"
+        },
+        {
+            "slug": "frost",
+            "id": 3,
+            "name": "Gelo"
+        },
+        {
+            "slug": "nature",
+            "id": 4,
+            "name": "Natureza"
+        },
+        {
+            "slug": "holy",
+            "id": 5,
+            "name": "Sagrado"
+        },
+        {
+            "slug": "shadow",
+            "id": 6,
+            "name": "Sombra"
+        },
+        {
+            "slug": "fel",
+            "id": 7,
+            "name": "Vil"
+        }
+    ],
+    "mercenaryRoles": [
+        {
+            "slug": "caster",
+            "id": 1,
+            "name": "Lançador"
+        },
+        {
+            "slug": "fighter",
+            "id": 2,
+            "name": "Lutador"
+        },
+        {
+            "slug": "tank",
+            "id": 3,
+            "name": "Protetor"
+        }
+    ],
+    "mercenaryFactions": [
+        {
+            "slug": "alliance",
+            "id": 1,
+            "name": "Aliança"
+        },
+        {
+            "slug": "horde",
+            "id": 2,
+            "name": "Horda"
+        },
+        {
+            "slug": "empire",
+            "id": 3,
+            "name": "Império"
+        },
+        {
+            "slug": "explorer",
+            "id": 4,
+            "name": "Explorador"
+        },
+        {
+            "slug": "legion",
+            "id": 5,
+            "name": "Legião"
+        },
+        {
+            "slug": "pirate",
+            "id": 6,
+            "name": "Pirata"
+        },
+        {
+            "slug": "scourge",
+            "id": 7,
+            "name": "Flagelo"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 1,
+            "slug": "taunt",
+            "name": "Provocar",
+            "refText": "Os inimigos precisam atacar os lacaios que tiverem Provocar.",
+            "text": "Os inimigos precisam atacar este lacaio.",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "id": 2,
+            "slug": "spellpower",
+            "name": "Dano Mágico",
+            "refText": "Seus feitiços causam dano extra.",
+            "text": "Seus cards de feitiço causam a mais de dano.",
+            "gameModes": [
+                1,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "id": 3,
+            "slug": "divine-shield",
+            "name": "Escudo Divino",
+            "refText": "Um lacaio protegido ignora dano recebido pela primeira vez.",
+            "text": "Na primeira vez em que este lacaio receber dano, ignore o dano.",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "id": 4,
+            "slug": "charge",
+            "name": "Investida",
+            "refText": "Pode atacar imediatamente.",
+            "text": "Pode atacar imediatamente.",
+            "gameModes": [
+                1,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "id": 5,
+            "slug": "secret",
+            "name": "Segredo",
+            "refText": "Oculto até ocorrer uma ação específica no turno do seu oponente.",
+            "text": "Oculto até ocorrer uma ação específica no turno do seu oponente.",
+            "gameModes": [
+                1,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "id": 6,
+            "slug": "stealth",
+            "name": "Furtividade",
+            "refText": "Não pode ser atacado nem alvejado até atacar.",
+            "text": "Não pode ser atacado nem alvejado até atacar.",
+            "gameModes": [
+                1,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "id": 8,
+            "slug": "battlecry",
+            "name": "Grito de Guerra",
+            "refText": "Faz alguma coisa ao ser colocado em jogo a partir de sua mão.",
+            "text": "Faz alguma coisa ao ser colocado em jogo a partir de sua mão.",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "id": 10,
+            "slug": "freeze",
+            "name": "Congelar",
+            "refText": "Personagens congelados perdem o próximo ataque.",
+            "text": "Personagens congelados perdem o próximo ataque.",
+            "gameModes": [
+                1,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "id": 11,
+            "slug": "windfury",
+            "name": "Fúria dos Ventos",
+            "refText": "Pode atacar duas vezes por turno.",
+            "text": "Pode atacar duas vezes por turno.",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "id": 12,
+            "slug": "deathrattle",
+            "name": "Último Suspiro",
+            "refText": "Faz alguma coisa quando morre.",
+            "text": "Faz alguma coisa quando morre.",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "id": 13,
+            "slug": "combo",
+            "name": "Combo",
+            "refText": "Bônus caso você já tenha jogado um card neste turno.",
+            "text": "Bônus caso você já tenha jogado um card neste turno.",
+            "gameModes": [
+                1,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "id": 14,
+            "slug": "overload",
+            "name": "Sobrecarga",
+            "refText": "Cards com Sobrecarga limitam seu mana no próximo turno.",
+            "text": "Você terá X a menos de mana no próximo turno.",
+            "gameModes": [
+                1,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "id": 15,
+            "slug": "silence",
+            "name": "Silêncio",
+            "refText": "Remove o texto e os encantamentos do card.",
+            "text": "Remove o texto e os encantamentos do card.",
+            "gameModes": [
+                1,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "id": 16,
+            "slug": "counter",
+            "name": "Anular",
+            "refText": "Um card Anulado não tem efeito.",
+            "text": "Um card Anulado não tem efeito.",
+            "gameModes": [
+                1,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "id": 17,
+            "slug": "immune",
+            "name": "Imune",
+            "refText": "Personagens imunes não podem receber dano.",
+            "text": "Não pode receber dano.",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "id": 19,
+            "slug": "spare-part",
+            "name": "Peças sobressalentes",
+            "refText": "Peças sobressalentes são feitiços de custo 1 com pouco efeito.",
+            "text": "Peças sobressalentes são feitiços de custo 1 com pouco efeito.",
+            "gameModes": [
+                1,
+                4
+            ]
+        },
+        {
+            "id": 20,
+            "slug": "inspire",
+            "name": "Inspirar",
+            "refText": "Faz algo depois que você usa o seu Poder Heroico.",
+            "text": "Faz algo depois que você usa o seu Poder Heroico.",
+            "gameModes": [
+                1
+            ]
+        },
+        {
+            "id": 21,
+            "slug": "discover",
+            "name": "Descubra",
+            "refText": "Escolha um entre três cards para acrescentar à sua mão.",
+            "text": "Escolha um entre três cards para acrescentar à sua mão.",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 31,
+            "slug": "quest",
+            "name": "Missão",
+            "refText": "Começa na sua mão. Conclua para ganhar uma recompensa.",
+            "text": "Começa na sua mão. Conclua para ganhar uma recompensa.",
+            "gameModes": [
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "id": 32,
+            "slug": "poisonous",
+            "name": "Venenoso",
+            "refText": "Destrua qualquer lacaio atingido por este lacaio.",
+            "text": "Destrua qualquer lacaio atingido por este lacaio.",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 34,
+            "slug": "adapt",
+            "name": "Adapte‑se",
+            "refText": "Escolha um de 3 bônus.",
+            "text": "Escolha um de 3 bônus.",
+            "gameModes": [
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "id": 38,
+            "slug": "lifesteal",
+            "name": "Roubar Vida",
+            "refText": "O dano causado também cura seu herói.",
+            "text": "O dano causado também cura seu herói.",
+            "gameModes": [
+                1,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 39,
+            "slug": "recruit",
+            "name": "Recruta",
+            "refText": "Evoque um lacaio do seu deck.",
+            "text": "Evoque um lacaio do seu deck.",
+            "gameModes": [
+                1,
+                4
+            ]
+        },
+        {
+            "id": 52,
+            "slug": "echo",
+            "name": "Eco",
+            "refText": "Pode ser repetido no turno em que for jogado. Cópias não podem custar menos de (1).",
+            "text": "Pode ser repetido no turno em que for jogado. Cópias não podem custar menos de (1).",
+            "gameModes": [
+                1,
+                4
+            ]
+        },
+        {
+            "id": 53,
+            "slug": "rush",
+            "name": "Rapidez",
+            "refText": "Pode atacar lacaios imediatamente.",
+            "text": "Pode atacar lacaios imediatamente.",
+            "gameModes": [
+                1,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 61,
+            "slug": "overkill",
+            "name": "Massacre",
+            "refText": "Cause excesso de dano no seu turno para receber um bônus.",
+            "text": "Cause excesso de dano no seu turno para receber um bônus.",
+            "gameModes": [
+                1
+            ]
+        },
+        {
+            "id": 64,
+            "slug": "startofgamekeyword",
+            "name": "Início da Partida",
+            "refText": "Faz alguma coisa antes do primeiro turno.",
+            "text": "Faz alguma coisa antes do primeiro turno.",
+            "gameModes": [
+                1,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 66,
+            "slug": "modular",
+            "name": "Magnético",
+            "refText": "Jogue à esquerda de um Mecanoide para fundir os dois!",
+            "text": "Jogue à esquerda de um Mecanoide para fundir os dois!",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 71,
+            "slug": "evilzug",
+            "name": "Servo",
+            "refText": "Servos são lacaios de custo 1 com Gritos de Guerra.",
+            "text": "Servos são lacaios de custo 1 com Gritos de Guerra.",
+            "gameModes": [
+                1,
+                4
+            ]
+        },
+        {
+            "id": 76,
+            "slug": "twinspell",
+            "name": "Feitiço Duplo",
+            "refText": "Pode ser lançado duas vezes.",
+            "text": "Pode ser lançado duas vezes.",
+            "gameModes": [
+                1
+            ]
+        },
+        {
+            "id": 77,
+            "slug": "mega-windfury",
+            "name": "Mega-Fúria dos Ventos",
+            "refText": "Pode atacar quatro vezes a cada turno.",
+            "text": "Pode atacar quatro vezes a cada turno.",
+            "gameModes": [
+                1
+            ]
+        },
+        {
+            "id": 78,
+            "slug": "reborn",
+            "name": "Renascer",
+            "refText": "Ressuscita com 1 de Vida ao morrer pela primeira vez.",
+            "text": "Ressuscita com 1 de Vida ao morrer pela primeira vez.",
+            "gameModes": [
+                1,
+                2,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 79,
+            "slug": "empower",
+            "name": "Invocar",
+            "refText": "Use o Poder de Galakrond.",
+            "text": "Use o Poder de Galakrond.",
+            "gameModes": [
+                1
+            ]
+        },
+        {
+            "id": 86,
+            "slug": "outcast",
+            "name": "Exilar",
+            "refText": "Bônus se o card for jogado quando estiver mais à esquerda ou à direita da sua mão.",
+            "text": "Bônus se o card for jogado quando estiver mais à esquerda ou à direita da sua mão.",
+            "gameModes": [
+                1,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 88,
+            "slug": "spellburst",
+            "name": "Sortilégio",
+            "refText": "Efeito que ocorre uma vez após você lançar um feitiço.",
+            "text": "Efeito que ocorre uma vez após você lançar um feitiço.",
+            "gameModes": [
+                1,
+                4
+            ]
+        },
+        {
+            "id": 89,
+            "slug": "sidequest",
+            "name": "Tarefa",
+            "refText": "Conclua para ganhar uma recompensa.",
+            "text": "Conclua para ganhar uma recompensa.",
+            "gameModes": [
+                1
+            ]
+        },
+        {
+            "id": 91,
+            "slug": "corrupt",
+            "name": "Corromper",
+            "refText": "Aprimoramento na mão depois que você jogar um card que custa mais.",
+            "text": "Aprimoramento na mão depois que você jogar um card que custa mais.",
+            "gameModes": [
+                1,
+                4
+            ]
+        },
+        {
+            "id": 96,
+            "slug": "questline",
+            "name": "Série de Missões",
+            "refText": "Começa na sua mão. Conclua para ganhar uma recompensa, até 3 vezes!",
+            "text": "Começa na sua mão. Conclua para ganhar uma recompensa, até 3 vezes!",
+            "gameModes": [
+                1,
+                4
+            ]
+        },
+        {
+            "id": 97,
+            "slug": "trade",
+            "name": "Trocável",
+            "refText": "Arraste esse card para o seu deck e gaste 1 de mana para comprar um novo card.",
+            "text": "Arraste esse card para o seu deck e gaste 1 de mana para comprar um novo card.",
+            "gameModes": [
+                1,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 99,
+            "slug": "frenzy",
+            "name": "Frenesi",
+            "refText": "Efeito que ocorre uma vez após o lacaio sobreviver a dano.",
+            "text": "Efeito que ocorre uma vez após o lacaio sobreviver a dano.",
+            "gameModes": [
+                1,
+                4
+            ]
+        },
+        {
+            "id": 100,
+            "slug": "honorablekill",
+            "name": "Abate Honroso",
+            "refText": "Cause o dano letal exato no seu turno para receber um bônus.",
+            "text": "Cause o dano letal exato no seu turno para receber um bônus.",
+            "gameModes": [
+                1,
+                4
+            ]
+        },
+        {
+            "id": 104,
+            "slug": "spellpowernature",
+            "name": "Dano Mágico de Natureza",
+            "refText": "Seus feitiços de Natureza causam dano extra.",
+            "text": "Seus cards de feitiço de Natureza causam a mais de dano.",
+            "gameModes": [
+                1,
+                4
+            ]
+        },
+        {
+            "id": 109,
+            "slug": "blood-gem",
+            "name": "Gema Sangrenta",
+            "refText": "Feitiço que concede a um lacaio.",
+            "text": "Feitiço que concede a um lacaio.",
+            "gameModes": [
+                2
+            ]
+        },
+        {
+            "id": 196,
+            "slug": "refresh",
+            "name": "Atualizar",
+            "refText": "Substitua os lacaios da Taverna do Bob por novos.",
+            "text": "Substitua os lacaios da Taverna do Bob por novos.",
+            "gameModes": [
+                2
+            ]
+        },
+        {
+            "id": 198,
+            "slug": "avenge",
+            "name": "Vingar (X)",
+            "refText": "Faz algo depois que X lacaios aliados morrem.",
+            "text": "Faz algo depois que X lacaios aliados morrem.",
+            "gameModes": [
+                2
+            ]
+        },
+        {
+            "id": 231,
+            "slug": "colossal",
+            "name": "Colossal +X",
+            "refText": "Quando evocado, gera X apêndices adicionais.",
+            "text": "Quando evocado, gera X apêndices adicionais.",
+            "gameModes": [
+                1,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 232,
+            "slug": "dredge",
+            "name": "Dragar",
+            "refText": "Olhe os 3 cards do fim do seu deck. Coloque um no topo.",
+            "text": "Olhe os 3 cards do fim do seu deck. Coloque um no topo.",
+            "gameModes": [
+                1,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 234,
+            "slug": "spellcraft",
+            "name": "Feitiçaria",
+            "refText": "Recebe um feitiço temporário a cada turno.",
+            "text": "Recebe um feitiço temporário a cada turno.",
+            "gameModes": [
+                2
+            ]
+        },
+        {
+            "id": 235,
+            "slug": "allied",
+            "name": "Aliado",
+            "refText": "Seu herói assume a classe Aliada depois que você escolhe este tesouro.",
+            "text": "Seu herói assume a classe Aliada depois que você escolhe este tesouro.",
+            "gameModes": [
+                4
+            ]
+        },
+        {
+            "id": 238,
+            "slug": "infuse",
+            "name": "Imbuir",
+            "refText": "Aprimora na mão depois que X lacaios aliados morrem.",
+            "text": "Aprimora na mão depois que X lacaios aliados morrem.",
+            "gameModes": [
+                1,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 247,
+            "slug": "corpse",
+            "name": "Cadáver",
+            "refText": "Recurso obtido quando um lacaio aliado morre.",
+            "text": "Recurso obtido quando um lacaio aliado morre.",
+            "gameModes": [
+                1,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 252,
+            "slug": "bacon_stealth",
+            "name": "Furtividade",
+            "refText": "Não pode ser atacado até atacar.",
+            "text": "Não pode ser atacado até atacar.",
+            "gameModes": [
+                2
+            ]
+        },
+        {
+            "id": 255,
+            "slug": "finale",
+            "name": "Finale",
+            "refText": "Bônus se este gastar todo seu mana restante.",
+            "text": "Bônus se este gastar todo seu mana restante.",
+            "gameModes": [
+                1,
+                5
+            ]
+        },
+        {
+            "id": 256,
+            "slug": "overheal",
+            "name": "Cura Excessiva",
+            "refText": "Bônus se a cura for além da Vida máxima.",
+            "text": "Bônus se a cura for além da Vida máxima.",
+            "gameModes": [
+                1,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 257,
+            "slug": "manathirst",
+            "name": "Sede de Mana (X)",
+            "refText": "Um bônus quando você tem X Cristais de Mana.",
+            "text": "Um bônus quando você tem X Cristais de Mana.",
+            "gameModes": [
+                1,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 261,
+            "slug": "venomous",
+            "name": "Peçonhento",
+            "refText": "Destrua o primeiro lacaio que receber dano deste.",
+            "text": "Destrua o primeiro lacaio que receber dano deste.",
+            "gameModes": [
+                2
+            ]
+        },
+        {
+            "id": 266,
+            "slug": "forge",
+            "name": "Forjar",
+            "refText": "Arraste isto para o seu deck para gastar (2) de Mana num aprimoramento.",
+            "text": "Arraste isto para o seu deck para gastar (2) de Mana num aprimoramento.",
+            "gameModes": [
+                1,
+                5
+            ]
+        },
+        {
+            "id": 270,
+            "slug": "titan",
+            "name": "Titã",
+            "refText": "Clique num Titã para usar 1 de 3 habilidades em vez de atacar.",
+            "text": "Clique num Titã para usar 1 de 3 habilidades em vez de atacar.",
+            "gameModes": [
+                1,
+                5
+            ]
+        }
+    ],
+    "filterableFields": [
+        "collectible",
+        "cardSetId",
+        "spellSchoolId",
+        "rarityId",
+        "cardTypeId",
+        "manaCost",
+        "attack",
+        "health",
+        "armor"
+    ],
+    "numericFields": [
+        "manaCost",
+        "attack",
+        "health",
+        "armor"
+    ],
+    "cardBackCategories": [
+        {
+            "slug": "base",
+            "id": 1,
+            "name": "Básico"
+        },
+        {
+            "slug": "fireside",
+            "id": 2,
+            "name": "Fireside"
+        },
+        {
+            "slug": "achieve",
+            "id": 3,
+            "name": "Conquistas"
+        },
+        {
+            "slug": "heroes",
+            "id": 4,
+            "name": "Heróis"
+        },
+        {
+            "slug": "season",
+            "id": 5,
+            "name": "Sazonal"
+        },
+        {
+            "slug": "legend",
+            "id": 6,
+            "name": "Lenda"
+        },
+        {
+            "slug": "esports",
+            "id": 7,
+            "name": "E-sports"
+        },
+        {
+            "slug": "game_license",
+            "id": 8,
+            "name": "Jogos"
+        },
+        {
+            "slug": "promotion",
+            "id": 9,
+            "name": "Promoção"
+        },
+        {
+            "slug": "pre_purchase",
+            "id": 10,
+            "name": "Pré-venda"
+        },
+        {
+            "slug": "blizzard",
+            "id": 11,
+            "name": "Blizzard"
+        },
+        {
+            "slug": "golden",
+            "id": 12,
+            "name": "Dourado"
+        },
+        {
+            "slug": "events",
+            "id": 13,
+            "name": "Eventos"
+        }
+    ]
+}
