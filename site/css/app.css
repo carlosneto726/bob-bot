@@ -1,0 +1,18 @@
+:root {
+    --background: #111214;
+    --background-discord: #313338;
+    --font-discord: #f2f3f5;
+}
+
+body{
+    background-color: var(--background);
+    color: var(--font-discord);
+}
+
+a{
+    color: var(--font-discord);
+}
+
+#funcionalidades{
+    background-color: var(--background-discord);
+}
