@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/carlosneto726/projeto-Incubadora">
+  <a href="https://github.com/carlosneto726/bob-bot">
     <img src="images/bob_pirata.jpg" alt="Logo" width="35%">
   </a>
 
@@ -29,16 +29,10 @@
 
 ## Sobre o projeto
 
-[![Product Name Screen Shot][product-screenshot]](https://cooperativasunidas.online/)
+[![Product Name Screen Shot][product-screenshot]](https://bob-bot-lake.vercel.app/)
 
 Bob o Bot é um bot do <a class="icon-link" href="https://discord.com/">Discord</a> inspirado no carismático <a class="icon-link" href="https://hearthstone.fandom.com/wiki/Bartender_Bob">Bob</a> do jogo <a class="icon-link" href="https://hearthstone.blizzard.com/pt-br">Hearthstone</a>. <br>
-Este bot foi criado para proporcionar uma experiência enriquecedora aos 
-entusiastas do jogo, oferecendo uma ampla gama de funcionalidades relacionadas ao universo de Hearthstone.
-Com o Bob o Bot, os jogadores têm acesso a informações detalhadas sobre cartas.
-Seja você um veterano apaixonado pelo jogo ou um novato em busca de orientação, o Bob o Bot está à disposição 
-para tornar a experiência no Discord ainda mais divertida e informativa no contexto de Hearthstone!
-
-
+Feito com o framework de desenvolvimento de bots [Pycord][Pycord-url] e compativel com slash commands. Caso você queira conferir o bot, acesse o [site][Site] e adicione ao seu servidor.
 
 ### Feito com
 
@@ -51,6 +45,7 @@ O projeto está sendo desenvolvido com essas tecnologias.
 * [![HTML][HTML]][HTML-url]
 * [![CSS][CSS]][CSS-url]
 * [![Javascript][Javascript]][Javascript-url]
+* [![Vercel][Vercel]][Vercel-url]
 
 
 ## Licença
@@ -68,11 +63,7 @@ Feito por <a class="icon-link" href="https://github.com/carlosneto726" target="_
 
 [product-screenshot]: images/perfil_example.png
 
-[Email]: carlosneto726@gmail.com
-[Linkedin]: https://www.linkedin.com/in/carlosneto726/
-[PerfilGithub]: https://github.com/carlosneto726
-[CooperativasUnidas]: https://cooperativasunidas.online/
-
+[site]: https://bob-bot-lake.vercel.app/
 
 [Discord]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 [Discord-url]: https://discord.com/
@@ -95,4 +86,6 @@ Feito por <a class="icon-link" href="https://github.com/carlosneto726" target="_
 [Javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [Javascript-url]: https://pt.wikipedia.org/wiki/JavaScript
 
+[Vercel]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+[Vercel-url]: https://vercel.com
 
